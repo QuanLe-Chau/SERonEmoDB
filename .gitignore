@@ -1,0 +1,11 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+emodbvenv/
+
+# Ignore audio files and data folders if not needed
+EmoDB/
+RAVDESS/
+
+# Ignore the pdf document
+Speech_Emotion_Recognition_DPL_Sample_Project pdf.pdf
